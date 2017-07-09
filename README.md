@@ -1,4 +1,4 @@
-# cupertino-light-syntax theme
+# Cupertino Light
 
 A minimal, light syntax theme for Atom.
 
