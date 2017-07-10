@@ -2,12 +2,12 @@
   "name": "cupertino-light-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A minimal, light syntax theme for Atom",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/cupertino-light-syntax",
+  "repository": "https://github.com/mihirsherlekar/cupertino-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
