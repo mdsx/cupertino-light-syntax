@@ -1,7 +1,7 @@
 {
   "name": "cupertino-light-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A minimal, light syntax theme for Atom",
   "keywords": [
     "light",
